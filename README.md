@@ -14,7 +14,7 @@ Then XGBoost Algorithm is used as the ML model for training the dataset for the 
 
 
 ## WebApp
-* If you want to view the deployed model, click on the following link : 
+* If you want to view the deployed model, click on the following link : https://incomeprediction--api.herokuapp.com/
 
 
 **Different accuracy metrics are provided in the EDA part**
